@@ -1,38 +1,26 @@
----
-tags:
-  - ActDoc
-  - TechMgmt
-  - DKU
-  - RnR
-  - NoTask
-Linked: "[[(DKU)_기술과경영_9주차_R&D_프로세스와_조직|기술과경영_8주차_RD프로세스와조직]]"
-Activity: Stage 3 역할별 임무 분담 가이드
-Time: 8주차 ~ 14주차 (참고 문서)
-created: 2026-04-29
----
+# 후반부 역할별 임무 분담 가이드
 
-# Stage 3 역할별 임무 분담 가이드
-
-> **기술과경영** | 8주차 ~ 14주차 | 팀 활동 참고 문서
-> 이 가이드는 Stage 3(TRM 고도화 → BMC → Pitch Deck → Demo Day) 기간 동안
+> **기술과경영** | 후반부(TRM 고도화 → 린 캔버스 → Pitch Deck → 최종 발표) 역할 분담 가이드 — 팀 전용
+> 이 가이드는 후반부 기간 동안
 > 팀 내 4개 역할이 각 산출물에서 **주도적으로 담당해야 할 파트**를 명확히 합니다.
+> **적용 범위**: 3~4인 팀 전용 — 1~2인 팀은 한 사람이 여러 역할을 겸임하는 것으로 표기하고 사용하세요.
 
 ---
 
 ## 가이드 목적
 
-PBL 프로젝트의 최종 단계(8~14주차)는 세 가지 핵심 산출물로 구성됩니다.
+프로젝트의 최종 단계는 세 가지 핵심 산출물로 구성됩니다.
 
-- **양식8 v1.0** — 기술 로드맵(TRM) 최종 완성 (R&D·IP·BMC 연계 전략 포함)
-- **양식9** — 비즈니스 모델 캔버스 (BMC)
-- **양식10** — Pitch Deck (Demo Day 발표 자료)
+- **II-01** — 기술 로드맵(TRM) 최종 완성 (R&D·IP·린 캔버스 연계 전략 포함)
+- **I-11** — 린 캔버스 (Lean Canvas)
+- **IV-06** — Pitch Deck (최종 발표·IR 자료)
 
 산출물이 많아질수록 역할 분담 없이 작업하면 특정 팀원에게 부담이 쏠립니다.
 이 가이드는 **CEO·CTO·CMO·CFO 4개 역할**에 파트를 균형 있게 배분하고, 서로의 작업을 **크로스체크**하는 구조를 제시합니다.
 
 > [!TIP] 이 문서의 사용법
 > 1. Part 1에서 자신의 역할에 해당하는 칸을 확인한다.
-> 2. Part 2에서 주차별 해야 할 작업과 산출물을 확인한다.
+> 2. Part 2에서 단계별 작업과 산출물을 확인한다.
 > 3. Part 3에서 본인이 크로스체크해야 할 영역을 확인하고, 피드백 기록을 남긴다.
 
 ---
@@ -47,12 +35,12 @@ PBL 프로젝트의 최종 단계(8~14주차)는 세 가지 핵심 산출물로 
 
 | 산출물 | 담당 내용 |
 |--------|-----------|
-| **TRM (양식8)** | 팀 전체 작성 내용 취합, 버전 이력 관리 |
-| **BMC (양식9)** | 9개 블록 정합성 점검 및 전체 취합 |
-| **Pitch Deck (양식10)** | SL1 커버·팀 소개, SL8 팀·일정, 전체 스토리라인 연결 |
+| **TRM (II-01)** | 팀 전체 작성 내용 취합, 버전 이력 관리 |
+| **린 캔버스 (I-11)** | 9개 블록 정합성 점검 및 전체 취합 |
+| **Pitch Deck (IV-06)** | SL1 Cover, SL8 Team, 전체 스토리라인 연결 |
 
 > [!NOTE] CEO 역할 안내
-> CEO는 Stage 3에서 **내용 생산보다 조율·통합**에 집중합니다.
+> CEO는 후반부에서 **내용 생산보다 조율·통합**에 집중합니다.
 > 각 역할이 작성한 내용이 서로 논리적으로 연결되는지 확인하고, 발표 스토리의 흐름을 잡는 것이 핵심 임무입니다.
 
 ---
@@ -61,17 +49,15 @@ PBL 프로젝트의 최종 단계(8~14주차)는 세 가지 핵심 산출물로 
 
 | 산출물 | 담당 내용 |
 |--------|-----------|
-| **TRM (양식8)** | Technology 계층 **주도**, Product 계층 CMO와 **공동** |
+| **TRM (II-01)** | Technology 계층 **주도**, Product 계층 CMO와 **공동** |
 | | Step 3-1 R&D 전략 섹션 **주도** |
 | | Step 3-2 IP 전략 섹션 **주도** |
-| | 10주차 협력 전략 CMO와 **공동** |
-| **BMC (양식9)** | Key Resources(KR) **주도** |
-| | Key Activities(KA) CMO와 **공동** |
-| | Key Partners(KP) CMO와 **공동** |
-| | Value Propositions(VP) CMO와 **공동** |
-| **Pitch Deck (양식10)** | SL3 Solution **주도** |
-| | SL6 Technology **주도** |
-| | SL7 Traction **주도** |
+| | III-4 오픈이노베이션 협력 전략 CMO와 **공동** |
+| **린 캔버스 (I-11)** | Solution **주도** |
+| | Unfair Advantage **주도**, CMO와 **공동** |
+| | Unique Value Proposition CMO와 **공동** |
+| **Pitch Deck (IV-06)** | SL3 Solution **주도** |
+| | SL6 TRM **주도** |
 
 ---
 
@@ -79,19 +65,20 @@ PBL 프로젝트의 최종 단계(8~14주차)는 세 가지 핵심 산출물로 
 
 | 산출물 | 담당 내용 |
 |--------|-----------|
-| **TRM (양식8)** | Market 계층 **주도** |
+| **TRM (II-01)** | Market 계층 **주도** |
 | | Product 계층 CTO와 **공동** |
-| | 10주차 협력 전략 CTO와 **공동** |
-| **BMC (양식9)** | Customer Segments(CS) **주도** |
-| | Channels(CH) **주도** |
-| | Customer Relationships(CR) **주도** |
-| | Key Partners(KP) CTO와 **공동** |
-| | Key Activities(KA) CTO와 **공동** |
-| | Value Propositions(VP) CTO와 **공동** |
-| | Revenue Streams(RS) CFO와 **공동** |
-| **Pitch Deck (양식10)** | SL2 Problem **주도** |
+| | III-4 오픈이노베이션 협력 전략 CTO와 **공동** |
+| **린 캔버스 (I-11)** | Customer Segments **주도** |
+| | Problem **주도** |
+| | Channels **주도** |
+| | Unique Value Proposition CTO와 **공동** |
+| | Unfair Advantage CTO와 **공동** |
+| | Revenue Streams CFO와 **공동** |
+| | Key Metrics CFO와 **공동** |
+| **Pitch Deck (IV-06)** | SL2 Problem **주도** |
 | | SL4 Market **주도** |
 | | SL5 Business Model CFO와 **공동** |
+| | SL7 Go-to-Market **주도** |
 
 ---
 
@@ -99,29 +86,30 @@ PBL 프로젝트의 최종 단계(8~14주차)는 세 가지 핵심 산출물로 
 
 | 산출물 | 담당 내용 |
 |--------|-----------|
-| **TRM (양식8)** | 팀 논의 참여 (재무적 실현 가능성 의견 제시) |
-| **BMC (양식9)** | Revenue Streams(RS) CMO와 **공동** |
-| | Cost Structure(CostS) **주도** |
-| **Pitch Deck (양식10)** | SL5 Business Model CMO와 **공동** |
-| | SL9 Ask(투자 요청) **주도** |
+| **TRM (II-01)** | 팀 논의 참여 (재무적 실현 가능성 의견 제시) |
+| **린 캔버스 (I-11)** | Revenue Streams CMO와 **공동** |
+| | Cost Structure **주도** |
+| | Key Metrics **주도**, CMO와 **공동** |
+| **Pitch Deck (IV-06)** | SL5 Business Model CMO와 **공동** |
+| | SL9 자금 조달 계획 **주도** |
 
 > [!NOTE] CFO 역할 안내
 > TRM 단계에서 CFO는 기술 계층 작성보다 **팀 논의에서 재무적 관점**을 제시하는 역할입니다.
-> BMC와 Pitch Deck에서 수익 구조와 비용 분석을 주도하며 균형을 맞춥니다.
+> 린 캔버스와 Pitch Deck에서 수익 구조와 비용 분석을 주도하며 균형을 맞춥니다.
 
 ---
 
-## Part 2. 주차별 산출물 분담표
+## Part 2. 단계별 산출물 분담표
 
-| 주차 | 주제 | CEO | CTO | CMO | CFO |
-|:----:|------|-----|-----|-----|-----|
-| **8주** | R&D 전략 | TRM 취합·버전 관리 | R&D 유형·Stage-Gate 작성 (TRM Step 3-1) | Market 계층 업데이트 | 팀 논의 참여 |
-| **9주** | R&D 프로세스·조직 | TRM 정합성 점검 | R&D 조직 구조·OKR 반영 | Product 계층 업데이트 (CTO 공동) | 팀 논의 참여 |
-| **10주** | 기술협력·개방형 혁신 | TRM 협력 전략 취합 | 협력 전략 작성 (CMO 공동) | 협력 전략 작성 (CTO 공동) | 팀 논의 참여 |
-| **11주** | IP 전략 | TRM 최종 취합·v1.0 완성 | IP 전략 섹션 작성 (TRM Step 3-2) | 경쟁 IP 환경 분석 보조 | IP 비용·리스크 의견 제시 |
-| **12주** | BMC 작성 | BMC 정합성 취합 | KR·KA·KP·VP 작성 | CS·CH·CR·KP·KA·VP·RS 작성 | RS·CostS 작성 |
-| **13주** | Pitch Deck 초안 | SL1·SL8·스토리라인 | SL3·SL6·SL7 작성 | SL2·SL4·SL5 작성 | SL5·SL9 작성 |
-| **14주** | Demo Day 발표 | 발표 총괄·진행 | 기술·R&D 질문 대응 | 시장·고객 질문 대응 | 재무·투자 질문 대응 |
+| 단계 | 대응 장 | CEO | CTO | CMO | CFO |
+|------|:------:|-----|-----|-----|-----|
+| **R&D 전략** | II-2~II-6 | TRM 취합·버전 관리 | R&D 유형·Stage-Gate 작성 (TRM Step 3-1) | Market 계층 업데이트 | 팀 논의 참여 |
+| **R&D 프로세스·조직** | II-3·III-6 | TRM 정합성 점검 | R&D 조직 구조·OKR 반영 | Product 계층 업데이트 (CTO 공동) | 팀 논의 참여 |
+| **기술협력·개방형 혁신** | III-4 | TRM 협력 전략 취합 | 협력 전략 작성 (CMO 공동) | 협력 전략 작성 (CTO 공동) | 팀 논의 참여 |
+| **IP 전략** | IV-1 | TRM 최종 취합·v1.0 완성 | IP 전략 섹션 작성 (TRM Step 3-2) | 경쟁 IP 환경 분석 보조 | IP 비용·리스크 의견 제시 |
+| **린 캔버스 작성** | I-11 | 린 캔버스 정합성 취합 | Solution·Unfair Advantage 작성 | Customer Segments·Problem·UVP·Channels 작성 | Revenue Streams·Cost Structure·Key Metrics 작성 |
+| **Pitch Deck 초안** | IV-6 | SL1·SL8·스토리라인 | SL3·SL6 작성 | SL2·SL4·SL5·SL7 작성 | SL5·SL9 작성 |
+| **최종 발표(IR)** | — | 발표 총괄·진행 | 기술·R&D 질문 대응 | 시장·고객 질문 대응 | 재무·투자 질문 대응 |
 
 ---
 
@@ -140,13 +128,13 @@ PBL 프로젝트의 최종 단계(8~14주차)는 세 가지 핵심 산출물로 
 | R&D·IP·협력 전략 | **CFO** | 외부 협력·IP 전략에 재무적 실현 가능성이 있는가? |
 | 전체 3계층 연결 논리 | **CEO** | Market→Product→Technology가 논리적으로 연결되는가? |
 
-### BMC 크로스체크
+### 린 캔버스 크로스체크
 
 | 검토 대상 | 담당 역할 | 주요 확인 포인트 |
 |-----------|-----------|-----------------|
-| VP ↔ CS 연결 | **CFO** | 가치 제안이 고객 세그먼트의 Pain/Gain에 실제로 대응하는가? |
-| KR·KA ↔ VP 연결 | **CMO** | 핵심 자원·활동이 가치 제안을 실현하기에 충분한가? |
-| RS ↔ CostS 연결 | **CTO** | 수익 구조가 비용 구조와 균형을 이루는가? |
+| UVP ↔ Customer Segments·Problem 연결 | **CFO** | 가치 제안이 고객 세그먼트의 Pain/Gain에 실제로 대응하는가? |
+| Solution ↔ UVP 연결 | **CMO** | 솔루션의 핵심 기능이 가치 제안을 실현하기에 충분한가? |
+| Revenue Streams ↔ Cost Structure 연결 | **CTO** | 수익 구조가 비용 구조와 균형을 이루는가? |
 | 전체 9블록 정합성 | **CEO** | 9개 블록이 하나의 일관된 비즈니스 모델을 구성하는가? |
 
 ### Pitch Deck 크로스체크
@@ -155,7 +143,7 @@ PBL 프로젝트의 최종 단계(8~14주차)는 세 가지 핵심 산출물로 
 |-----------|-----------|-----------------|
 | Problem → Solution (SL2→SL3) | **CTO** | 솔루션이 문제를 직접적으로 해결하는가? |
 | Market → Business Model (SL4→SL5) | **CFO** | 비즈니스 모델이 목표 시장 규모에 비례하는가? |
-| Technology → Ask (SL6→SL9) | **CMO** | 투자 요청 금액이 기술 개발 로드맵과 논리적으로 연결되는가? |
+| TRM → 자금 조달 계획 (SL6→SL9) | **CMO** | 필요 자금과 자금 사용 계획이 기술 개발 로드맵과 논리적으로 연결되는가? |
 | 전체 흐름 (SL1~SL9) | **CEO** | 청중이 처음부터 끝까지 스토리를 따라올 수 있는가? |
 
 ---
@@ -164,15 +152,15 @@ PBL 프로젝트의 최종 단계(8~14주차)는 세 가지 핵심 산출물로 
 
 | 슬라이드 | 제목 | 주도 역할 |
 |:--------:|------|-----------|
-| SL1 | 커버·팀 소개 | CEO |
+| SL1 | Cover | CEO |
 | SL2 | Problem | CMO |
 | SL3 | Solution | CTO |
 | SL4 | Market | CMO |
 | SL5 | Business Model | CMO·CFO **공동** |
-| SL6 | Technology | CTO |
-| SL7 | Traction | CTO |
-| SL8 | 팀·일정 | CEO |
-| SL9 | Ask | CFO |
+| SL6 | TRM | CTO |
+| SL7 | Go-to-Market | CMO |
+| SL8 | Team | CEO |
+| SL9 | 자금 조달 계획 | CFO |
 
 ---
 
