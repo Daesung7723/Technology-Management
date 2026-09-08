@@ -3,8 +3,6 @@
 기술경영·기술사업화 교재의 공개 저장소입니다. 단국대학교 「기술과경영」 강의를 위해 집필한 교재 v3.0(5부 46장)과 실습 양식을 원천으로 하며, 대학 강의와 예비 창업자 교육에 함께 활용할 수 있도록 정제해 게시합니다.
 저자: 김대성
 
-> **게시 준비 중** — 본문·양식은 검토와 보완을 거쳐 한 번에 게시합니다. 아래 구성표의 "예정" 항목은 게시 시점에 채워집니다.
-
 ## 이 교재에 관하여
 
 이 교재는 기술경영·기술사업화의 이론과 실무 도구를 46개 장으로 정리한 **기술과경영 교재 v3.0**입니다. 기존 교재 v2.0(CH 1~10)의 개정판이 아니라, v2.0의 이론 골격을 원천으로 삼아 집필된 기술사업화 이론 원고 46편을 교재 체계로 전면 재구성한 신규 판입니다.
@@ -27,76 +25,95 @@
 
 ## 전체 목차 (5부 46장)
 
+각 장의 "블로그 원문"은 이 교재의 원천이 된 SOLIDE LAB 티스토리 게시글입니다. 교재 본문은 원문을 정제·보강한 판이므로 내용이 일부 다를 수 있습니다.
+
 ### 제I부 — 시장·고객·마케팅·사업화 (18장)
 
-| 장 | 제목 |
-|:--:|------|
-| [I-1](Chapters/I-01_환경분석.md) | 환경분석 — PEST·PESTLE로 거시환경 읽기 |
-| [I-2](Chapters/I-02_산업분석.md) | 산업분석 — Five Forces와 가치사슬로 경쟁 구조 읽기 |
-| [I-3](Chapters/I-03_시장분석.md) | 시장분석 — TAM·SAM·SOM으로 시장 규모 산정하기 |
-| [I-4](Chapters/I-04_기술시장_변화.md) | 기술·시장 변화의 특징과 유형 — 지금이 어느 시점인가 |
-| [I-5](Chapters/I-05_고객이해_문제정의.md) | 고객 이해와 문제 정의 — 실제 문제를 찾는 다섯 가지 도구 |
-| [I-6](Chapters/I-06_아이디어_발상.md) | 아이디어 발상 — 발산과 수렴으로 좋은 솔루션 찾기 |
-| [I-7](Chapters/I-07_가치설계.md) | 가치 설계 — 가치제안 캔버스로 문제와 솔루션을 맞추다 |
-| [I-8](Chapters/I-08_시장진입_전략.md) | 시장진입 전략 — 어디에, 어떤 자리로 들어갈 것인가 |
-| [I-9](Chapters/I-09_캐즘_극복.md) | 캐즘 극복 전략 — 초기 시장에서 주류 시장으로 |
-| [I-10](Chapters/I-10_가격_전략.md) | 가격 전략 — 얼마를, 어떤 단위로 받을 것인가 |
-| [I-11](Chapters/I-11_비즈니스모델_설계.md) | 비즈니스 모델 설계 — 무엇으로 그리고, 왜 캔버스인가 |
-| [I-12](Chapters/I-12_비즈니스모델_혁신.md) | 비즈니스 모델 혁신 — 같은 기술로 다른 결과를 만드는 법 |
-| [I-13](Chapters/I-13_기술사업화_경로.md) | 기술사업화 경로 — 기술에서 사업까지, 어디로 가고 어디서 멈추는가 |
-| [I-14](Chapters/I-14_고객개발_린스타트업.md) | 고객개발과 린스타트업 — 계획 대신 증거로 사업을 세우는 법 |
-| [I-15](Chapters/I-15_수요검증.md) | 수요 검증 기법 — 고객 인터뷰·프리토타이핑·최소기능제품(MVP) |
-| [I-16](Chapters/I-16_PMF_측정.md) | PMF 측정 — 40% 테스트·리텐션 코호트·피벗 판단 |
-| [I-17](Chapters/I-17_성장전략.md) | 창업·스케일업 성장 전략 — 성장 루프·T2D3·블리츠스케일링 |
-| [I-18](Chapters/I-18_성장지표.md) | 성장 지표 — North Star·AARRR·LTV/CAC |
+| 장 | 제목 | 블로그 원문 |
+|:--:|------|:--:|
+| [I-1](Chapters/I-01_환경분석.md) | 환경분석 — PEST·PESTLE로 거시환경 읽기 | [원문](https://solide-lab.tistory.com/16) |
+| [I-2](Chapters/I-02_산업분석.md) | 산업분석 — Five Forces와 가치사슬로 경쟁 구조 읽기 | [원문](https://solide-lab.tistory.com/17) |
+| [I-3](Chapters/I-03_시장분석.md) | 시장분석 — TAM·SAM·SOM으로 시장 규모 산정하기 | [원문](https://solide-lab.tistory.com/18) |
+| [I-4](Chapters/I-04_기술시장_변화.md) | 기술·시장 변화의 특징과 유형 — 지금이 어느 시점인가 | [원문](https://solide-lab.tistory.com/19) |
+| [I-5](Chapters/I-05_고객이해_문제정의.md) | 고객 이해와 문제 정의 — 실제 문제를 찾는 다섯 가지 도구 | [원문](https://solide-lab.tistory.com/20) |
+| [I-6](Chapters/I-06_아이디어_발상.md) | 아이디어 발상 — 발산과 수렴으로 좋은 솔루션 찾기 | [원문](https://solide-lab.tistory.com/21) |
+| [I-7](Chapters/I-07_가치설계.md) | 가치 설계 — 가치제안 캔버스로 문제와 솔루션을 맞추다 | [원문](https://solide-lab.tistory.com/22) |
+| [I-8](Chapters/I-08_시장진입_전략.md) | 시장진입 전략 — 어디에, 어떤 자리로 들어갈 것인가 | [원문](https://solide-lab.tistory.com/23) |
+| [I-9](Chapters/I-09_캐즘_극복.md) | 캐즘 극복 전략 — 초기 시장에서 주류 시장으로 | [원문](https://solide-lab.tistory.com/24) |
+| [I-10](Chapters/I-10_가격_전략.md) | 가격 전략 — 얼마를, 어떤 단위로 받을 것인가 | [원문](https://solide-lab.tistory.com/25) |
+| [I-11](Chapters/I-11_비즈니스모델_설계.md) | 비즈니스 모델 설계 — 무엇으로 그리고, 왜 캔버스인가 | [원문](https://solide-lab.tistory.com/26) |
+| [I-12](Chapters/I-12_비즈니스모델_혁신.md) | 비즈니스 모델 혁신 — 같은 기술로 다른 결과를 만드는 법 | [원문](https://solide-lab.tistory.com/27) |
+| [I-13](Chapters/I-13_기술사업화_경로.md) | 기술사업화 경로 — 기술에서 사업까지, 어디로 가고 어디서 멈추는가 | [원문](https://solide-lab.tistory.com/28) |
+| [I-14](Chapters/I-14_고객개발_린스타트업.md) | 고객개발과 린스타트업 — 계획 대신 증거로 사업을 세우는 법 | [원문](https://solide-lab.tistory.com/29) |
+| [I-15](Chapters/I-15_수요검증.md) | 수요 검증 기법 — 고객 인터뷰·프리토타이핑·최소기능제품(MVP) | [원문](https://solide-lab.tistory.com/30) |
+| [I-16](Chapters/I-16_PMF_측정.md) | PMF 측정 — 40% 테스트·리텐션 코호트·피벗 판단 | [원문](https://solide-lab.tistory.com/31) |
+| [I-17](Chapters/I-17_성장전략.md) | 창업·스케일업 성장 전략 — 성장 루프·T2D3·블리츠스케일링 | [원문](https://solide-lab.tistory.com/32) |
+| [I-18](Chapters/I-18_성장지표.md) | 성장 지표 — North Star·AARRR·LTV/CAC | [원문](https://solide-lab.tistory.com/33) |
 
 ### 제II부 — 기술 기획·개발·성숙 (9장)
 
-| 장 | 제목 |
-|:--:|------|
-| [II-1](Chapters/II-01_기술예측_기술로드맵.md) | 기술예측·기술로드맵 — 델파이·시나리오에서 TRM 3계층 설계까지 |
-| [II-2](Chapters/II-02_RnD_포트폴리오.md) | R&D 포트폴리오 관리 — 4대 목표와 자원 배분 도구 |
-| [II-3](Chapters/II-03_스테이지게이트.md) | 스테이지 게이트(Stage-Gate) — 5단계 구조와 진행·중단 판정 |
-| [II-4](Chapters/II-04_RnD_프로젝트계획.md) | R&D 프로젝트 계획 기본기 — WBS에서 성과 측정까지 |
-| [II-5](Chapters/II-05_RnD_접근법.md) | R&D 접근법 선택 — 애자일·워터폴·하이브리드 |
-| [II-6](Chapters/II-06_RnD_리스크관리.md) | R&D 리스크·불확실성 관리 — 식별에서 대응 4전략까지 |
-| [II-7](Chapters/II-07_신제품개발_양산_품질.md) | 신제품 개발·양산·품질 — NPD 8단계에서 품질관리까지 |
-| [II-8](Chapters/II-08_기술성숙도.md) | 기술 성숙도 평가 — TRL 9단계와 xRL 계열 |
-| [II-9](Chapters/II-09_특허정보분석.md) | 특허 정보분석 — 랜드스케이프·FTO·CTI와 핵심 지표 |
+| 장 | 제목 | 블로그 원문 |
+|:--:|------|:--:|
+| [II-1](Chapters/II-01_기술예측_기술로드맵.md) | 기술예측·기술로드맵 — 델파이·시나리오에서 TRM 3계층 설계까지 | [원문](https://solide-lab.tistory.com/34) |
+| [II-2](Chapters/II-02_RnD_포트폴리오.md) | R&D 포트폴리오 관리 — 4대 목표와 자원 배분 도구 | [원문](https://solide-lab.tistory.com/35) |
+| [II-3](Chapters/II-03_스테이지게이트.md) | 스테이지 게이트(Stage-Gate) — 5단계 구조와 진행·중단 판정 | [원문](https://solide-lab.tistory.com/36) |
+| [II-4](Chapters/II-04_RnD_프로젝트계획.md) | R&D 프로젝트 계획 기본기 — WBS에서 성과 측정까지 | [원문](https://solide-lab.tistory.com/37) |
+| [II-5](Chapters/II-05_RnD_접근법.md) | R&D 접근법 선택 — 애자일·워터폴·하이브리드 | [원문](https://solide-lab.tistory.com/38) |
+| [II-6](Chapters/II-06_RnD_리스크관리.md) | R&D 리스크·불확실성 관리 — 식별에서 대응 4전략까지 | [원문](https://solide-lab.tistory.com/39) |
+| [II-7](Chapters/II-07_신제품개발_양산_품질.md) | 신제품 개발·양산·품질 — NPD 8단계에서 품질관리까지 | [원문](https://solide-lab.tistory.com/40) |
+| [II-8](Chapters/II-08_기술성숙도.md) | 기술 성숙도 평가 — TRL 9단계와 xRL 계열 | [원문](https://solide-lab.tistory.com/41) |
+| [II-9](Chapters/II-09_특허정보분석.md) | 특허 정보분석 — 랜드스케이프·FTO·CTI와 핵심 지표 | [원문](https://solide-lab.tistory.com/42) |
 
 ### 제III부 — 기술경영·전략·혁신 (7장)
 
-| 장 | 제목 |
-|:--:|------|
-| [III-1](Chapters/III-01_기술경영_개론.md) | 기술경영 개론 — MOT의 정의·5프로세스·테크 푸시와 마켓 풀 |
-| [III-2](Chapters/III-02_기술전략.md) | 기술전략 — 핵심역량·VRIO·동적역량에서 SWOT·TOWS까지 |
-| [III-3](Chapters/III-03_혁신유형_파괴적혁신.md) | 혁신 유형·파괴적 혁신 — 존속 vs 파괴·아키텍처 혁신·판정 3축 |
-| [III-4](Chapters/III-04_오픈이노베이션.md) | 오픈이노베이션 — 3프로세스·협력 채널 스펙트럼·가치 전유 |
-| [III-5](Chapters/III-05_AI시대_기술경영.md) | AI 시대 기술경영 — 다섯 국면·에이전틱 AI·거버넌스 |
-| [III-6](Chapters/III-06_RnD조직_기술인력.md) | R&D 조직·기술인력 — 구조 3형·양손잡이·이중 경력 사다리 |
-| [III-7](Chapters/III-07_지식경영.md) | 지식경영 — SECI·흡수역량·실행공동체 |
+| 장 | 제목 | 블로그 원문 |
+|:--:|------|:--:|
+| [III-1](Chapters/III-01_기술경영_개론.md) | 기술경영 개론 — MOT의 정의·5프로세스·테크 푸시와 마켓 풀 | [원문](https://solide-lab.tistory.com/43) |
+| [III-2](Chapters/III-02_기술전략.md) | 기술전략 — 핵심역량·VRIO·동적역량에서 SWOT·TOWS까지 | [원문](https://solide-lab.tistory.com/44) |
+| [III-3](Chapters/III-03_혁신유형_파괴적혁신.md) | 혁신 유형·파괴적 혁신 — 존속 vs 파괴·아키텍처 혁신·판정 3축 | [원문](https://solide-lab.tistory.com/45) |
+| [III-4](Chapters/III-04_오픈이노베이션.md) | 오픈이노베이션 — 3프로세스·협력 채널 스펙트럼·가치 전유 | [원문](https://solide-lab.tistory.com/46) |
+| [III-5](Chapters/III-05_AI시대_기술경영.md) | AI 시대 기술경영 — 다섯 국면·에이전틱 AI·거버넌스 | [원문](https://solide-lab.tistory.com/47) |
+| [III-6](Chapters/III-06_RnD조직_기술인력.md) | R&D 조직·기술인력 — 구조 3형·양손잡이·이중 경력 사다리 | [원문](https://solide-lab.tistory.com/48) |
+| [III-7](Chapters/III-07_지식경영.md) | 지식경영 — SECI·흡수역량·실행공동체 | [원문](https://solide-lab.tistory.com/49) |
 
 ### 제IV부 — IP·자금 (7장)
 
-| 장 | 제목 |
-|:--:|------|
-| [IV-1](Chapters/IV-01_IP전략_포트폴리오.md) | IP 전략·포트폴리오 — 특허 vs 영업비밀·청구범위·IP 실사 |
-| [IV-2](Chapters/IV-02_표준특허_SEP_FRAND.md) | 표준특허·SEP·FRAND — 표준을 구현하면 왜 특허 문제가 생기는가 |
-| [IV-3](Chapters/IV-03_기술이전_라이선싱.md) | 기술이전·라이선싱 계약 — 실시권·기술료·공동개발 |
-| [IV-4](Chapters/IV-04_기술가치평가.md) | 기술가치평가 — 세 접근법·실물옵션 |
-| [IV-5](Chapters/IV-05_IP금융.md) | IP 금융 — 담보대출·보증·투자와 기술신용평가(TCB) |
-| [IV-6](Chapters/IV-06_투자유치_밸류에이션.md) | 스타트업 투자유치·밸류에이션 — Berkus·VC Method·텀시트 |
-| [IV-7](Chapters/IV-07_VC_CVC_정책금융.md) | VC·CVC·정책금융 — 투자 재원의 지형 |
+| 장 | 제목 | 블로그 원문 |
+|:--:|------|:--:|
+| [IV-1](Chapters/IV-01_IP전략_포트폴리오.md) | IP 전략·포트폴리오 — 특허 vs 영업비밀·청구범위·IP 실사 | [원문](https://solide-lab.tistory.com/50) |
+| [IV-2](Chapters/IV-02_표준특허_SEP_FRAND.md) | 표준특허·SEP·FRAND — 표준을 구현하면 왜 특허 문제가 생기는가 | [원문](https://solide-lab.tistory.com/51) |
+| [IV-3](Chapters/IV-03_기술이전_라이선싱.md) | 기술이전·라이선싱 계약 — 실시권·기술료·공동개발 | [원문](https://solide-lab.tistory.com/52) |
+| [IV-4](Chapters/IV-04_기술가치평가.md) | 기술가치평가 — 세 접근법·실물옵션 | [원문](https://solide-lab.tistory.com/53) |
+| [IV-5](Chapters/IV-05_IP금융.md) | IP 금융 — 담보대출·보증·투자와 기술신용평가(TCB) | [원문](https://solide-lab.tistory.com/54) |
+| [IV-6](Chapters/IV-06_투자유치_밸류에이션.md) | 스타트업 투자유치·밸류에이션 — Berkus·VC Method·텀시트 | [원문](https://solide-lab.tistory.com/55) |
+| [IV-7](Chapters/IV-07_VC_CVC_정책금융.md) | VC·CVC·정책금융 — 투자 재원의 지형 | [원문](https://solide-lab.tistory.com/56) |
 
 ### 제V부 — 제도·정책·미래 (5장)
 
-| 장 | 제목 |
-|:--:|------|
-| [V-1](Chapters/V-01_한국_RnD제도.md) | 한국 R&D 제도의 구조 — 혁신법·평가 체계·예타 폐지 |
-| [V-2](Chapters/V-02_창업_사업화_지원제도.md) | 창업·기술사업화 지원 제도 지도 — 네 가지 유형 |
-| [V-3](Chapters/V-03_규제샌드박스_혁신조달.md) | 규제샌드박스·혁신조달 — 실증특례·임시허가·혁신제품 지정 |
-| [V-4](Chapters/V-04_연구자_제도.md) | 대학·출연연 연구자를 위한 제도 — 직무발명·기술료·연구원 창업 |
-| [V-5](Chapters/V-05_지속가능_미래.md) | 지속가능·미래 기술경영 — Industry 5.0·RRI·기술확산 |
+| 장 | 제목 | 블로그 원문 |
+|:--:|------|:--:|
+| [V-1](Chapters/V-01_한국_RnD제도.md) | 한국 R&D 제도의 구조 — 혁신법·평가 체계·예타 폐지 | [원문](https://solide-lab.tistory.com/57) |
+| [V-2](Chapters/V-02_창업_사업화_지원제도.md) | 창업·기술사업화 지원 제도 지도 — 네 가지 유형 | [원문](https://solide-lab.tistory.com/58) |
+| [V-3](Chapters/V-03_규제샌드박스_혁신조달.md) | 규제샌드박스·혁신조달 — 실증특례·임시허가·혁신제품 지정 | [원문](https://solide-lab.tistory.com/59) |
+| [V-4](Chapters/V-04_연구자_제도.md) | 대학·출연연 연구자를 위한 제도 — 직무발명·기술료·연구원 창업 | [원문](https://solide-lab.tistory.com/60) |
+| [V-5](Chapters/V-05_지속가능_미래.md) | 지속가능·미래 기술경영 — Industry 5.0·RRI·기술확산 | [원문](https://solide-lab.tistory.com/61) |
+
+## 입문 시리즈 — 아이디어를 사업으로 (외부 링크)
+
+기술 창업 아이템을 사업 구상으로 정리하는 순서를 다룬 네이버 블로그 시리즈 10편입니다. 제I부에 들어가기 전의 입문 읽을거리로, 각 편에 대응하는 장을 함께 표시했습니다. 지원사업 신청 관점의 실전 편(예비창업패키지·중소기업 R&D 과제)은 블로그 발행 후 이 절에 추가합니다.
+
+| 편 | 제목 | 대응 장 |
+|:--:|------|:--:|
+| 1 | [좋은 아이디어가 설명할수록 약해 보이는 이유](https://blog.naver.com/solide_lab_2020/224313146074) | [III-1](Chapters/III-01_기술경영_개론.md) |
+| 2 | [고객을 넓게 잡을수록 아이디어가 흐려지는 이유](https://blog.naver.com/solide_lab_2020/224313160979) | [I-8](Chapters/I-08_시장진입_전략.md) |
+| 3 | [좋은 기능이 고객가치로 이어지지 않는 이유](https://blog.naver.com/solide_lab_2020/224313165914) | [I-7](Chapters/I-07_가치설계.md) |
+| 4 | [고객가치란 무엇일까? 기능과 가치의 차이](https://blog.naver.com/solide_lab_2020/224313171683) | [I-7](Chapters/I-07_가치설계.md) |
+| 5 | [아이디어와 사업화 구상은 무엇이 다를까?](https://blog.naver.com/solide_lab_2020/224313964676) | [I-13](Chapters/I-13_기술사업화_경로.md) |
+| 6 | [기능 설명을 고객의 변화로 바꿔보면 보이는 것들](https://blog.naver.com/solide_lab_2020/224313975429) | [I-7](Chapters/I-07_가치설계.md) |
+| 7 | [시장자료가 있어도 내 아이디어와 연결되지 않는 이유](https://blog.naver.com/solide_lab_2020/224314149868) | [I-3](Chapters/I-03_시장분석.md) |
+| 8 | [아이디어를 사업화 구상으로 바꾸기 전에 확인할 질문들](https://blog.naver.com/solide_lab_2020/224314156374) | [I-13](Chapters/I-13_기술사업화_경로.md) |
+| 9 | [큰 시장보다 첫 진입 시장이 중요한 이유](https://blog.naver.com/solide_lab_2020/224314167774) | [I-8](Chapters/I-08_시장진입_전략.md) |
+| 10 | [아이디어를 실행 가능한 구상으로 정리하는 순서](https://blog.naver.com/solide_lab_2020/224314177783) | [I-13](Chapters/I-13_기술사업화_경로.md) |
 
 ## 시점성 안내
 
